@@ -17,8 +17,10 @@ The workshop invites researchers, engineers, clinicians and industrialists from 
 <p align="justify">
 Original submission honoring the LNCS paper template and page limits (less than 15 pages, single column) are welcome till August 15th, 2025. The other submission guidelines are presented below:
   
-  - Format: Instructions to Authors
+  - Format: Springer LNCS (see https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
+  - Length: ≤ 15 pages (including references and appendices)
   - Language: English
+  - Review: Double-blind, ≥ 3 reviews per paper
   - Submission Portal: https://edas.info/N34279
   - Publication: Only peer-reviewed papers which follows the LNCS guidelines and are presented at the workshop during conference days will appear in the LNCS proceedings.
 </p>
