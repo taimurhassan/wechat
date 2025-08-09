@@ -19,7 +19,7 @@ Original submission honoring the LNCS paper template and page limits (less than 
   
   - Format: Instructions to Authors
   - Language: English
-  - Submission Portal: https://edas.info/N33990
+  - Submission Portal: https://edas.info/N34279
   - Publication: Only peer-reviewed papers which follows the LNCS guidelines and are presented at the workshop during conference days will appear in the LNCS proceedings.
 </p>
 
